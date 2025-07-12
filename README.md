@@ -1,0 +1,1 @@
+csgo.azurewebsites.net
